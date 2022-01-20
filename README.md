@@ -1,5 +1,8 @@
 # Instructions for running DIP assignments
-1. Clone the repository to your local computer
+1. Clone this repository to your local computer
+```
+git clone https://github.com/sunilvengalil/dip_assignments.git
+```
 
 2. Download and install python version 3.7 from https://www.python.org/downloads/
 
